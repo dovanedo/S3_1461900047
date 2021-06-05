@@ -29,12 +29,12 @@
     @csrf
     <div class="form-group">
         <label for="nama">Nama</label>
-        <input type="text" class="form-control" id="nama" name="nama" placeholder="jhon dhoe...">
+        <input type="text" class="form-control" id="nama" name="nama" placeholder="isikan nama">
     </div>
 
     <div class="form-group">
         <label for="alamat">Alamat</label>
-        <input type="text" class="form-control" id="alamat" name="alamat" placeholder="Address...">
+        <input type="text" class="form-control" id="alamat" name="alamat" placeholder="alamat">
     </div>
 
     <div class="form-group">
@@ -43,7 +43,7 @@
 </form>
     </div>
     <div class="footer">
-		<center>Copyright &copy; 2021 - <a href="facebook.com/lavonte12">dovanedo</a></center>
+		<center>Copyright &copy; 2021 - <a href="https://www.instagram.com/dovaneap">dovanedo</a></center>
 	</div>
     </body>
 

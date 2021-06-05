@@ -60,6 +60,9 @@
     </tbody>
 </table>
     </div>
+    <div class="footer">
+		<center>Copyright &copy; 2021 - <a href="https://www.instagram.com/dovaneap">dovanedo</a></center>
+	</div>
    </body>
 
 <script src="{{ URL::asset('js/app.js') }}"></script>

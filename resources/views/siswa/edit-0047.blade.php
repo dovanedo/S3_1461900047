@@ -30,12 +30,12 @@
     @method('PUT')
     <div class="form-group">
         <label for="nama">Nama</label>
-        <input type="text" class="form-control" id="nama" name="nama" placeholder="jhon dhoe..." value="{{ $data->nama }}">
+        <input type="text" class="form-control" id="nama" name="nama" placeholder="isikan nama" value="{{ $data->nama }}">
     </div>
 
     <div class="form-group">
         <label for="alamat">Alamat</label>
-        <input type="text" class="form-control" id="alamat" name="alamat" placeholder="Address..." value="{{ $data->alamat }}">
+        <input type="text" class="form-control" id="alamat" name="alamat" placeholder="alamat" value="{{ $data->alamat }}">
     </div>
 
     <div class="form-group">
@@ -44,7 +44,7 @@
 </form>
     </div>
     <div class="footer">
-		<center>Copyright &copy; 2021 - <a href="facebook.com/lavonte12">dovanedo</a></center>
+		<center>Copyright &copy; 2021 - <a href="https://www.instagram.com/dovaneap">dovanedo</a></center>
 	</div>
 </body>
 
